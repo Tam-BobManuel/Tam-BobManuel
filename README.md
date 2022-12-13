@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=green)
+
 - 👋 Hi, I’m @Tam-BobManuel
 - 👀 I’m interested in the web, I've always wanted to build awesome applications on it 
 - 🌱 I’m currently learning to become a full stack JavaScrip developer

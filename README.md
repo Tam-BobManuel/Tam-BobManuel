@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=green)
+![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)
 
 - 👋 Hi, I’m @Tam-BobManuel
 - 👀 I’m interested in the web, I've always wanted to build awesome applications on it 
-- 🌱 I’m currently learning to become a full stack JavaScrip developer
+- 🌱 I’m currently learning to become a full stack JavaScript developer
 - 👨‍💻 I currently have knowledge of XML, HTML, CSS, Bootstrap, JavaScript, Photoshop, SQL and PHP at time of writing.
 - 💞️ I’m looking to collaborate with fellow developers to build things on the web
 - 📫 You can reach me on Twitter @bobmanuel_g or Discord @Xant#6159

@@ -1,7 +1,13 @@
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
+
 ![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)
+
+<!-- FOLLOW ME -->
 
 <img src="https://img.shields.io/twitter/follow/tam_webdev?logo=twitter&style=for-the-badge" alt="tam_webdev" />
 <br>
+
+<!--             MY ABOUT -->
 
 <center><h2>Hi there! 👋 I'm Tam, a Full Stack Web Developer</h2></center>
 <h3>About Me</h3><br>
@@ -11,13 +17,35 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 <p>
   - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, jQuery, Bootstrap <br>
   - <strong>Backend Development:</strong> Node.js, PHP, SQL, MySQL <br>
-  - <strong>Tools and Technologies:</strong> Git, Shell, Command Line Interface (CLI)<br>
+  - <strong>Tools and Technologies:</strong> Git, Shell, Command Line Interface (CLI), Postman<br>
+</p>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,jquery,css,netlify,react,postman,php,mysql" />
+  </a>
 </p>
 
-
+<!--   STREAK     -->
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tam-BobManuel&theme=tokyonight" alt="mystreak"/>
 <br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true" />
+</picture>
+
+
+
+
 
 <!---
 Tam-BobManuel/Tam-BobManuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

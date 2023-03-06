@@ -1,4 +1,4 @@
-<center>![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)</center>
+![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)
 
 - 👋 Hi, I’m @Tam-BobManuel
 - 👀 I’m interested in the web, I've always wanted to build awesome applications on it 

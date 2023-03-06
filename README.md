@@ -3,8 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)
 
 <!-- FOLLOW ME -->
-
+<a href="https://twitter.com/tam_webdev">
 <img src="https://img.shields.io/twitter/follow/tam_webdev?logo=twitter&style=for-the-badge" alt="tam_webdev" />
+</a>
 <br>
 
 <!--             MY ABOUT -->

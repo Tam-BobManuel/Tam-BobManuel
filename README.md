@@ -31,7 +31,9 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tam-BobManuel&theme=tokyonight" alt="mystreak"/>
 <br>
-
+<!--   Top language -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tam-BobManuel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true&theme=dark"

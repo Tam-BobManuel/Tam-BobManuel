@@ -23,7 +23,7 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,jquery,css,netlify,react,postman,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,jquery,css,netlify,express,postman,php,mysql" />
   </a>
 </p>
 

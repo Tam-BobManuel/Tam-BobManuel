@@ -29,8 +29,9 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <!--  MOST USED LANGUAGE  -->
 
+<centre>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tam-BobManuel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+</centre>
 
 
 <br>
@@ -38,9 +39,6 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 <!--   Github throphy -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Tam-BobManuel&theme=juicyfresh&no-bg=true" />
 <br> -->
-
-
-
 
 
 <!---

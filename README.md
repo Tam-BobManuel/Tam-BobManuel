@@ -34,7 +34,7 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tam-BobManuel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<picture style="display:inline-block">
+<picture style=" display:inline-block">
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -48,8 +48,8 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <br>
 <!--   Github throphy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tam-BobManuel&theme=juicyfresh&no-bg=true" />
-<br>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Tam-BobManuel&theme=juicyfresh&no-bg=true" />
+<br> -->
 
 
 

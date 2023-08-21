@@ -16,9 +16,9 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <h3>My Skills</h3><br>
 <p>
-  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, jQuery, Bootstrap <br>
-  - <strong>Backend Development:</strong> Node.js, PHP, SQL, MySQL <br>
-  - <strong>Tools and Technologies:</strong> Git, Shell, Command Line Interface (CLI), Postman<br>
+  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, jQuery, Bootstrap, ejs <br>
+  - <strong>Backend Development:</strong> Node.js, PHP, SQL, MySQL, MongoDB <br>
+  - <strong>Tools and Technologies:</strong> Git, Shell, Command Line Interface (CLI), VS Code<br>
 </p>
 <br>
 <p align="center">
@@ -34,6 +34,7 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tam-BobManuel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+<!--
 <picture style=" display:inline-block">
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=Tam-BobManuel&show_icons=true&theme=dark"
@@ -47,6 +48,7 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 </picture>
 
 <br>
+-->
 <!--   Github throphy -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Tam-BobManuel&theme=juicyfresh&no-bg=true" />
 <br> -->

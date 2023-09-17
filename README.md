@@ -16,9 +16,9 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <h3>My Skills</h3><br>
 <p>
-  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, jQuery, Bootstrap, ejs <br>
-  - <strong>Backend Development:</strong> Node.js, PHP, SQL, MySQL, MongoDB <br>
-  - <strong>Tools and Technologies:</strong> Git, Shell, Command Line Interface (CLI), VS Code<br>
+  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, jQuery, Bootstrap, SASS, ejs <br>
+  - <strong>Backend Development:</strong> Node.js, ExpressJS, Axios, PHP, SQL, MySQL, MongoDB, MongooseJS <br>
+  - <strong>Tools and Technologies:</strong> Git, Postman, Command Line Interface (CLI), VS Code, vi<br>
 </p>
 <br>
 <p align="center">

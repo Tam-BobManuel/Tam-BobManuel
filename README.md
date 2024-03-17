@@ -31,12 +31,14 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
   </a>
 </p>
 
-<!-- Most Used Language -->
-<h3 style="text-align: center;">Most Used Language</h3>
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tam-BobManuel" alt="Top Languages" />
-</p>
+<!--  MOST USED LANGUAGE  -->
 
+<centre>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tam-BobManuel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</centre>
+
+
+<br>
 
 <!--   Github throphy -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Tam-BobManuel&theme=juicyfresh&no-bg=true" />

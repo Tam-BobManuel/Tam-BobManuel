@@ -19,15 +19,15 @@ I'm a passionate web developer with a strong background in HTML, CSS, JavaScript
 
 <h3>My Skills</h3>
 <p>
-  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, TypeScript, jQuery, Bootstrap, SASS, ejs, React, NextJS <br>
-  - <strong>Backend Development:</strong> Node.js, ExpressJS, Axios, PHP, SQL, MySQL, MongoDB, MongooseJS, Strapi, postgres <br>
+  - <strong>Frontend Development:</strong> HTML, CSS, JavaScript, TypeScript, jQuery, Bootstrap, SASS, ejs, React, NextJS, TailwindCSS <br>
+  - <strong>Backend Development:</strong> Node.js, ExpressJS, Axios, PHP, SQL, MySQL, MongoDB, MongooseJS, Strapi, Postgres <br>
   - <strong>Tools and Technologies:</strong> Git, Postman, Command Line Interface (CLI), VS Code, vi<br>
 </p>
 
 <!-- Skill Icons -->
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,jquery,react,express,postman,php,mysql,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,sass,ejs,react,nextjs,tailwind,nodejs,express,axios,php,mysql,mongodb,postgres,strapi,git,postman,vscode" />
   </a>
 </p>
 
